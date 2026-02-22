@@ -52,7 +52,11 @@ The objective of this dashboard is to:
 ![Product Details](Product sale details.png)
 
 ### Regional Sales Analysis
-![Region](Sales region.png)
+![Region](Salesregion.png)
+
+### Dax demos age
+![Dax demos](Daxdemos.png)
+
 
 ---
 

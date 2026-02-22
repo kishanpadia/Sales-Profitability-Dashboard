@@ -49,7 +49,7 @@ The objective of this dashboard is to:
 ![Overview](Overview.png)
 
 ### Product Sales Details
-![Product Details](product_sale_details.png)
+![Product](product.png)
 
 ### Regional Sales Analysis
 ![Region](Sales_region.png)
